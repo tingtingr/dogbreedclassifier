@@ -1,5 +1,7 @@
 #Image folders
 Ifw/
+ifw/
+*.zip
 dogImages/
 
 
